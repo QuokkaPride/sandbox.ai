@@ -1,2 +1,2 @@
 # sandbox.ai
-A place where quokkas can experiment, build, and learn!
+A place where quokkas experiment, build, and learn!
